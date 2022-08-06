@@ -1,8 +1,8 @@
 # Reproduzindo Banco Digital com Java e Orientação a Objetos
 
-Repositório para reforço do aprendizado dos pilares de Programação Orientada a Objetos (POO) em Java com um desafio de projeto totalmente prático. 
+Repositório de desafio proposto para reforço do aprendizado dos pilares de Programação Orientada a Objetos (POO) em Java, baseado em um projeto de referência no contexto bancário apresentado em aula pela DIO, com o intuito de desenvolver a capacidade de abstração.
 
-Trata-se de um projeto de referência no contexto bancário, apresentado em aula pela DIO, para o desenvolvimento da capacidade de abstração através da reprodução da solução, interpretando o seguinte cenário: “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).”
+Trata-se da reprodução da solução para o seguinte cenário: “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).”
 
 ## Conceitos importantes para recordar! :bulb:
 
